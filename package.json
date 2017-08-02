@@ -1,0 +1,22 @@
+{
+  "name": "@widgetic/polyfills",
+  "version": "1.0.0",
+  "description": "> A way of getting the browser to behave and support the latest specifications.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widgetic/polyfills.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/widgetic/polyfills/issues"
+  },
+  "homepage": "https://github.com/widgetic/polyfills#readme"
+}
